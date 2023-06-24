@@ -7642,7 +7642,7 @@ Dq:function Dq(){},
 a1f(a){var s=0,r=A.a3(t.N),q,p,o,n,m,l
 var $async$a1f=A.a4(function(b,c){if(b===1)return A.a0(c,r)
 while(true)switch(s){case 0:s=3
-return A.ab($.Kd().Ul("assets/assets/words.txt"),$async$a1f)
+return A.ab($.Kd().Ul("assets/words.txt"),$async$a1f)
 case 3:m=c.split("\n")
 l=A.a([],t.s)
 for(p=m.length,o=0;o<p;++o){n=m[o]
