@@ -34307,7 +34307,7 @@ s=this.c
 p.d=s
 r=t.s
 q=A.a(s.split(""),r)
-p.r.push(q[0])
+p.r.push(B.b.gG(q))
 B.b.hj(q,0)
 B.b.x8(q)
 s=B.b.bo(q,"")
