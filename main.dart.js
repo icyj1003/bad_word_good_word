@@ -43429,7 +43429,7 @@ Vi(){this.y=A.N3(B.cI,new A.ajg(this))},
 aP(){var s,r,q=this,p={}
 p.a=60
 s=q.a.c
-if(s<5){p.a=1
+if(s<5){p.a=30
 r=5}else if(s<10){p.a=25
 r=8}else if(s<20){p.a=25
 r=10}else r=5
